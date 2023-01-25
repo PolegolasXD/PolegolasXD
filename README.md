@@ -3,14 +3,17 @@
 
 🌱 Estudando atualmente Analise e Desenvolvimento de Sistemas na FATEC Cruzeiro.
 
-
 <div align="center">
   <a href="https://github.com/PolegolasXD">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PolegolasXD&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolegolasXD&layout=compact&langs_count=7&theme=cobalt"/>
+    
 </div>
- 
+
+  
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="PolegolasXD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PolegolasXD-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PolegolasXD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,10 +24,8 @@
   <img align="center" alt="PolegolasXD-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="PolegolasXD-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-
-
   </div>
-  
+    
 ##
 
 <div> 
@@ -35,3 +36,10 @@
   <a href="https://www.linkedin.com/in/f%C3%A1bio-higor-6bb00721b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+##
+  
+<img height="100" width="100" align="left" src="https://user-images.githubusercontent.com/85709318/214670150-a7faa7ab-efbd-4107-966d-290120347f4a.gif"> <div align="right"> <img height="100" width="100" src="https://user-images.githubusercontent.com/85709318/214670131-80931ed4-d103-4d10-b7b6-684d438bd6c3.gif"> </div> 
+
+  
+  
