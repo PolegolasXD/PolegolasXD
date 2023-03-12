@@ -15,7 +15,8 @@
   <img align="center" alt="PolegolasXD-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="PolegolasXD-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="PolegolasXD-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="PolegolasXD-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="PolegolasXD-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+  <img align="center" alt="PolegolasXD-Vscode" height="30" width="40" src="https://user-images.githubusercontent.com/85709318/224572960-3eddd806-5e98-4fda-8c84-13aa928c98ca.png"/>
 
   </div>
     
