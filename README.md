@@ -6,8 +6,8 @@
 
 <div>
 <a href = "https://github.com/PolegolasXD">
-<img height="150rm" src="https://github-readme-stats.vercel.app/api?username=PolegolasXD&show_icons=true&theme=darcula">
-<img height="150rm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolegolasXD&layout=compact&theme=darcula">
+<img height="150rm" src="https://github-readme-stats.vercel.app/api?username=PolegolasXD&show_icons=true&theme=radical">
+<img height="150rm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolegolasXD&layout=compact&theme=radical">
 </div>
 
   
