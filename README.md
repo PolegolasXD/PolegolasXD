@@ -1,7 +1,7 @@
-<h1 align="center"> Salve, Fabio Aqui! </h1>
+<h1 align="center"> Olá, me chamo Fábio! </h1>
 
 
-🌱 Estudando atualmente Analise e Desenvolvimento de Sistemas na FATEC Cruzeiro.
+Estudando atualmente Analise e Desenvolvimento de Sistemas na FATEC Cruzeiro.
 
 
 <div>
