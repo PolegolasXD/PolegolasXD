@@ -23,10 +23,11 @@ Estudando atualmente Analise e Desenvolvimento de Sistemas na FATEC Cruzeiro.
   <img align="center" alt="PolegolasXD-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="PolegolasXD-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
   <img align="center" alt="PolegolasXD-Vscode" height="30" width="40" src="https://user-images.githubusercontent.com/85709318/224572960-3eddd806-5e98-4fda-8c84-13aa928c98ca.png"/>
-
+ <img align="center" alt="PolegolasXD-Vscode" height="30" width="45" src="https://user-images.githubusercontent.com/85709318/226175264-03605780-1d27-41e7-bbef-e0c96354a4f6.png"/>
   </div>
     
 ##
+
 
 <div> 
   <a href="https://instagram.com/PolegolasXD" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
