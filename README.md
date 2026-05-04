@@ -1,46 +1,108 @@
-<h1 align="center"> Olá, me chamo Fábio! </h1>
+ <h1 align="center">Olá, eu sou Fábio Higor</h1>
 
+  <p align="center">
+    <strong>Full-stack Developer | WordPress & Web Systems</strong>
+  </p>
 
-Estudando atualmente Analise e Desenvolvimento de Sistemas na FATEC Cruzeiro.
+  <p align="center">
+    <a href="mailto:fabiohigdev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/f%C3%A1bio-higor-6bb00721b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/PolegolasXD" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
 
+  ---
 
-<div>
-<a href = "https://github.com/PolegolasXD">
-<img height="150rm" src="https://github-readme-stats.vercel.app/api?username=PolegolasXD&show_icons=true&theme=radical">
-<img height="150rm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolegolasXD&layout=compact&theme=radical">
-</div>
+  ## Sobre mim
 
-  
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="PolegolasXD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PolegolasXD-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="PolegolasXD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PolegolasXD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PolegolasXD-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PolegolasXD-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="PolegolasXD-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="PolegolasXD-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="PolegolasXD-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
-  <img align="center" alt="PolegolasXD-Vscode" height="30" width="40" src="https://user-images.githubusercontent.com/85709318/228690752-64d394d1-f466-495c-839f-4cbe5c314667.png"/>
- <img align="center" alt="PolegolasXD-Vscode" height="30" width="45" src="https://user-images.githubusercontent.com/85709318/226175264-03605780-1d27-41e7-bbef-e0c96354a4f6.png"/>
-  </div>
-  
-##
+  Sou desenvolvedor com experiência prática em sistemas reais, atuando com **WordPress**, **WooCommerce**, **front-end**, **back-end em contexto WordPress/PHP**, **React Native** e **e-
+  commerce**.
 
+  Trabalho com fluxo profissional de desenvolvimento usando **Git**, **Bitbucket**, **Pull Requests** e **revisão de código**. Também utilizo ferramentas de IA no meu processo para
+  acelerar tarefas, apoiar debugging, refatorar código e automatizar processos.
 
-<div> 
-  <a href="https://instagram.com/PolegolasXD" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/PolegolasXD" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Polegolas" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:fabiohigdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/f%C3%A1bio-higor-6bb00721b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-  
-##
-  
-<img height="100" width="100" align="left" src="https://user-images.githubusercontent.com/85709318/214670150-a7faa7ab-efbd-4107-966d-290120347f4a.gif"> <div align="right"> <img height="100" width="100" src="https://user-images.githubusercontent.com/85709318/214670131-80931ed4-d103-4d10-b7b6-684d438bd6c3.gif"> </div> 
+  - Localização: **Silveiras, SP, Brasil**
+  - Formação: **Tecnólogo em Análise e Desenvolvimento de Sistemas — FATEC Cruzeiro-SP**
+  - Conclusão: **2025** — diploma em emissão
+  - Inglês: **Intermediário**
 
-  
-  
+  ---
+
+  ## Stack
+
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,wordpress,docker,git,bitbucket,vscode,figma,ubuntu,npm" alt="Tecnologias" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+    <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+    <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
+    <img src="https://img.shields.io/badge/WordPress-111827?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress">
+    <img src="https://img.shields.io/badge/WooCommerce-111827?style=for-the-badge&logo=woocommerce&logoColor=96588A" alt="WooCommerce">
+    <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+    <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+    <img src="https://img.shields.io/badge/Bitbucket-111827?style=for-the-badge&logo=bitbucket&logoColor=0052CC" alt="Bitbucket">
+    <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+    <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
+    <img src="https://img.shields.io/badge/WSL%20%2F%20Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="WSL Ubuntu">
+    <img src="https://img.shields.io/badge/NPM-111827?style=for-the-badge&logo=npm&logoColor=CB3837" alt="NPM">
+  </p>
+
+  ---
+
+  ## AI & Automação
+
+  <p>
+    <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+    <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+    <img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
+    <img src="https://img.shields.io/badge/OpenAI_API-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
+    <img src="https://img.shields.io/badge/Anthropic_API-111827?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API">
+  </p>
+
+  Uso IA no fluxo de desenvolvimento para apoiar:
+
+  - geração de código
+  - refatoração
+  - debugging
+  - análise técnica
+  - automação de tarefas
+  - organização de soluções
+
+  ---
+
+  ## Projetos e experiências
+
+  - **Customizações WordPress/WooCommerce**
+    Ajustes em sistemas reais com e-commerce, plugins, checkout, formulários, responsividade e fluxos de interface.
+
+  - **Tema WordPress para Dominus Comunicação**
+    Desenvolvimento de tema customizado, estruturação de páginas, componentes reutilizáveis e organização para manutenção.
+
+  - **Melhorias visuais no site Terra Santa / Canção Nova**
+    Implementação de melhorias de design, ajustes de layout, responsividade e customizações visuais em WordPress.
+
+  - **Aplicativo de Cantina em React Native**
+    Refatoração da aplicação, reorganização de componentes e melhoria da estrutura para manutenção.
+
+  - **E-commerce em WordPress/WooCommerce**
+    Atuação em interfaces, ajustes funcionais, integrações com plugins e melhorias de experiência do usuário.
+
+  ---
+
+  ## GitHub Stats
+
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=PolegolasXD&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub Stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolegolasXD&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs">
+  </p>
