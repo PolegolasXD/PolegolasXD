@@ -99,10 +99,4 @@
 
   ---
 
-  ## GitHub Stats
-
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=PolegolasXD&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  alt="GitHub Stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolegolasXD&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs">
-  </p>
+ 
