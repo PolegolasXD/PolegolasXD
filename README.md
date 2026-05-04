@@ -1,7 +1,7 @@
  <h1 align="center">Olá, eu sou Fábio Higor</h1>
 
   <p align="center">
-    <strong>Full-stack Developer | WordPress & Web Systems</strong>
+    <strong>Engenheiro de software | WordPress & Web Systems</strong>
   </p>
 
   <p align="center">
